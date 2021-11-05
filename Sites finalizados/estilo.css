@@ -1,0 +1,152 @@
+body{
+    background-color: #FF5555;
+    color: #FFDD22;
+    font-size: 18px;
+    font-family: "Lato", georgia, serif;
+}
+
+header{
+    display:block; 
+    margin-bottom: 1px; 
+}
+
+nav{
+    display:block; 
+    width: 200px; 
+    float: left;
+    margin-left: 10px;
+    font-weight: bold;
+    font-family: "Rubik", Verdana, sans-serif;
+}
+
+section { 
+    display:block;
+    width: 70%;
+    float: right;
+     }
+
+
+a:link {
+    color:#FFDD00;
+    text-decoration: none;
+}
+
+a:visited{
+    color:  #FFBB00;
+    text-decoration: none;
+}
+
+ul {
+    color:  #FFDD22;
+    line-height: 230%;
+    margin-top: 40px;
+    list-style-type: disc;
+    font-weight: normal;
+
+}
+
+span {
+    color:  #EE0000;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+td, th{
+border: 3px;
+border-style: solid;
+border-color: #226699;
+padding: 6px 12px 6px 12px;
+}
+
+#ender{
+    text-align: right;
+    font-size: 14px;
+    line-height: 140%;
+    float: right;
+}
+
+#imgLogo{
+    margin-bottom: 6px;
+    padding-bottom: 5px;
+    border-bottom-width:3px;
+    border-bottom: solid;
+}
+
+#apres{
+    font-size: 18px;
+    text-align: center;
+}
+
+#titulo1{
+    text-align: center;
+    color: #FFDD22;
+    font-weight:normal;
+}
+
+#listaComMel{
+    color: #AA0000;
+    background-color: #EECC88;
+    width: 340px;
+    border: 2px;
+    border-color: #000055;
+    border: thin;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    list-style-type:upper-roman;
+    padding: 10px 10px 10px 50px;
+    text-align: left;
+
+
+}
+
+#listaComMel2{
+    color: #AA0000;
+    list-style-type:square;
+    line-height: 230%;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 10px 10px 50px;
+}
+
+#tabDabel{
+    border-collapse: collapse;
+    border-style:solid;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:  #FFCC44;
+    color:  #000066;
+    font-family: "Rubik", Verdana, sans-serif;
+    text-align:center;
+    border-color: #226699;
+}
+
+#titulo2{
+    color:  #FFFF00;
+    background-color: #228855;
+    text-align: center;
+    font-size: 24px;
+}
+
+#linTH{
+    color:  #FFFFFF;
+    background-color:  #22AA55;
+    vertical-align: middle;
+    text-align: center;
+}
+
+#colTH{
+    color:  #FFFFFF;
+    background-color: #2299DD;
+    text-align: left;
+}
+
+#imgDaBel{
+    height: 70px;
+    width: 70px;
+}
